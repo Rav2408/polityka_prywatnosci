@@ -29,10 +29,11 @@ Nasza Aplikacja została zaprojektowana z myślą o Twojej prywatności.
 Ponieważ nie gromadzimy Twoich danych osobowych, nie wykorzystujemy ich w żaden sposób.
 
 * **Dane wprowadzane lokalnie:** Służą wyłącznie do wykonania obliczeń zleconych przez Ciebie w Aplikacji i działania podstawowych funkcji Aplikacji na Twoim urządzeniu.
-* **Dane nieosobowe/analityczne (jeśli dotyczy - dostosuj lub usuń):** *Jeśli zbieramy anonimowe dane analityczne, wykorzystujemy je wyłącznie w celu:
-    * Zrozumienia, jak użytkownicy korzystają z Aplikacji.
-    * Ulepszania funkcjonalności i wydajności Aplikacji.
-    * Diagnozowania i rozwiązywania problemów technicznych.*
+* **Dane zbierane przez Google AdMob:** Dane gromadzone przez Google AdMob są wykorzystywane przez Google do celów opisanych w ich politykach (do których linki znajdują się w Sekcji 3), w tym między innymi do:
+    * Wyświetlania reklam w Aplikacji.
+    * Personalizacji treści reklamowych.
+    * Mierzenia skuteczności reklam.
+    * Ulepszania usług reklamowych Google.
 
 ## 3. Udostępnianie informacji i Reklamy
 
@@ -53,7 +54,7 @@ Ponieważ nie gromadzimy Twoich danych osobowych, nie wykorzystujemy ich w żade
 
 ## 4. Bezpieczeństwo danych
 
-Przykładamy wagę do bezpieczeństwa Twoich danych, even jeśli są one przechowywane tylko lokalnie na Twoim urządzeniu. Ponieważ nie gromadzimy danych osobowych na naszych serwerach, ryzyko związane z ich wyciekiem z naszej strony jest zminimalizowane.
+Przykładamy wagę do bezpieczeństwa Twoich danych, nawet jeśli są one przechowywane tylko lokalnie na Twoim urządzeniu. Ponieważ nie gromadzimy danych osobowych na naszych serwerach, ryzyko związane z ich wyciekiem z naszej strony jest zminimalizowane.
 
 * Pamiętaj, że żadna metoda transmisji danych przez internet ani metoda elektronicznego przechowywania danych nie jest w 100% bezpieczna.
 
@@ -71,6 +72,6 @@ Zaleca się okresowe przeglądanie niniejszej Polityki Prywatności pod kątem w
 
 Jeśli masz jakiekolwiek pytania dotyczące niniejszej Polityki Prywatności, skontaktuj się z nami:
 
-* **Email:**  rafkas.dev@example.com
+* **Email:**  rafkas@proton.me
 
 ---
