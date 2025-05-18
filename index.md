@@ -1,6 +1,6 @@
 # Polityka Prywatności dla Smart Kredyt - kalkulator kredytowy
 
-**Data ostatniej aktualizacji:** 16 maja 2025
+**Data ostatniej aktualizacji:** 18 maja 2025
 
 Dziękujemy za korzystanie z aplikacji kalkulatora kredytowego **Smart Kredyt - kalkulator kredytowy** (dalej jako "Aplikacja"), stworzonej przez zespół deweloperski **RafKas** (dalej jako "my", "nas", "nasz"). Niniejsza Polityka Prywatności opisuje, w jaki sposób gromadzimy, wykorzystujemy i chronimy (lub nie gromadzimy) jakiekolwiek informacje podczas korzystania z naszej Aplikacji.
 
@@ -11,11 +11,18 @@ Korzystając z Aplikacji, zgadzasz się na warunki opisane w niniejszej Polityce
 Nasza Aplikacja została zaprojektowana z myślą o Twojej prywatności.
 
 * **Brak gromadzenia danych osobowych:** Aplikacja **Smart Kredyt - kalkulator kredytowy** **nie gromadzi, nie przechowuje ani nie przesyła żadnych danych osobowych** umożliwiających identyfikację użytkownika, takich jak imię, nazwisko, adres e-mail, numer telefonu, lokalizacja geograficzna czy unikalne identyfikatory urządzenia w sposób, który mógłby Cię zidentyfikować.
-* **Dane wprowadzane przez użytkownika:** Wszelkie dane, które wprowadzasz do Aplikacji w celu wykonania obliczeń kredytowych (takie jak kwota kredytu, oprocentowanie, okres kredytowania), są przetwarzane **wyłącznie lokalnie na Twoim urządzeniu**. Te dane nie są przez nas gromadzone, przechowywane na naszych serwerach ani udostępniane stronom trzecim.
-    * **Opcjonalnie (jeśli Twoja aplikacja ma taką funkcję, dostosuj):** *Jeśli Aplikacja oferuje funkcję zapisywania historii obliczeń, dane te są również przechowywane wyłącznie lokalnie na Twoim urządzeniu i możesz je usunąć w dowolnym momencie z poziomu Aplikacji. My nie mamy do nich dostępu.*
-* **Dane nieosobowe/analityczne (jeśli dotyczy - dostosuj lub usuń):**
-    * **Wariant A (Brak analityki):** *Nie korzystamy z żadnych narzędzi analitycznych ani nie zbieramy żadnych anonimowych danych dotyczących korzystania z Aplikacji.*
-    * **Wariant B (Podstawowa analityka - jeśli używasz np. Google Firebase Analytics w trybie anonimowym):** *Możemy zbierać anonimowe, zagregowane dane dotyczące korzystania z Aplikacji, takie jak częstotliwość używania poszczególnych funkcji czy informacje o awariach. Dane te pomagają nam ulepszać Aplikację i nie pozwalają na Twoją identyfikację. Korzystamy w tym celu z [Nazwa Narzędzia Analitycznego, np. Google Firebase Analytics w sposób zanonimizowany]. Więcej informacji o tym, jak [Nazwa Narzędzia Analitycznego] przetwarza dane, znajdziesz pod adresem: [Link do polityki prywatności narzędzia analitycznego].*
+* **Dane wprowadzane przez użytkownika:** Wszelkie dane, które wprowadzasz do Aplikacji w celu wykonania obliczeń kredytowych (takie jak kwota kredytu, oprocentowanie, okres kredytowania itd.), są przetwarzane **wyłącznie lokalnie na Twoim urządzeniu**. Te dane nie są przez nas gromadzone, przechowywane na naszych serwerach ani udostępniane stronom trzecim.
+* **Dane zbierane przez dostawców reklam (Google AdMob):**
+    Nasza Aplikacja korzysta z usług reklamowych Google AdMob w celu wyświetlania reklam. Google AdMob, jako strona trzecia, może gromadzić i wykorzystywać pewne dane w celu dostarczania spersonalizowanych lub niespersonalizowanych reklam. Dane te mogą obejmować między innymi:
+    * Identyfikatory urządzeń (np. Identyfikator reklamowy - Advertising ID, IDFA)
+    * Adres IP
+    * Informacje o Twoim urządzeniu i systemie operacyjnym
+    * Informacje o interakcji z reklamami (np. wyświetlenia, kliknięcia)
+    * Przybliżone dane geolokalizacyjne (np. na podstawie adresu IP)
+    * Informacje o Twojej aktywności w Aplikacji w kontekście wyświetlanych reklam.
+
+    My, jako RafKas, nie mamy bezpośredniego dostępu do tych danych ani ich nie kontrolujemy w sposób wykraczający poza konfigurację usługi AdMob. Gromadzenie i wykorzystywanie tych danych podlega polityce prywatności Google.
+
 
 ## 2. Jak wykorzystujemy zebrane informacje
 
@@ -27,12 +34,22 @@ Ponieważ nie gromadzimy Twoich danych osobowych, nie wykorzystujemy ich w żade
     * Ulepszania funkcjonalności i wydajności Aplikacji.
     * Diagnozowania i rozwiązywania problemów technicznych.*
 
-## 3. Udostępnianie informacji stronom trzecim
+## 3. Udostępnianie informacji i Reklamy
 
-Nie udostępniamy, nie sprzedajemy ani nie wynajmujemy żadnych Twoich danych osobowych stronom trzecim, ponieważ ich nie gromadzimy.
+* **Brak udostępniania danych przez RafKas:** Nie udostępniamy, nie sprzedajemy ani nie wynajmujemy żadnych Twoich danych osobowych stronom trzecim, ponieważ ich nie gromadzimy.
+* **Dostawcy reklam (Google AdMob):**
+    Jak wspomniano powyżej, nasza Aplikacja korzysta z Google AdMob do wyświetlania reklam. Google jest niezależnym administratorem danych, które gromadzi za pośrednictwem swoich usług reklamowych. Zalecamy zapoznanie się z polityką prywatności Google oraz informacjami o tym, jak Google wykorzystuje dane podczas korzystania z witryn i aplikacji partnerów:
+    * **Polityka Prywatności Google:** [https://policies.google.com/privacy](https://policies.google.com/privacy)
+    * **Jak Google wykorzystuje dane, gdy korzystasz z witryn lub aplikacji naszych partnerów:** [https://policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites)
+    * **Technologie reklamowe Google:** [https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads)
 
-* **Dostawcy usług (jeśli dotyczy - np. dla analityki):** *Jeśli korzystamy z usług stron trzecich (np. do anonimowej analityki), robimy to tylko w zakresie niezbędnym do świadczenia tych usług i wymagamy od nich przestrzegania standardów ochrony prywatności. Lista takich dostawców (jeśli istnieją) i linki do ich polityk prywatności zostały wymienione w sekcji 1.*
-* **Wymogi prawne:** Możemy ujawnić informacje, jeśli będzie to wymagane przez prawo lub w dobrej wierze, że takie działanie jest konieczne do: (a) zastosowania się do przepisów prawa lub procesu sądowego; (b) ochrony i obrony naszych praw lub własności; (c) działania w nagłych okolicznościach w celu ochrony osobistego bezpieczeństwa użytkowników Aplikacji lub społeczeństwa.
+    Możesz mieć możliwość zarządzania swoimi preferencjami dotyczącymi reklam spersonalizowanych za pośrednictwem ustawień swojego urządzenia mobilnego (np. poprzez ograniczenie śledzenia reklam lub zresetowanie identyfikatora reklamowego) lub poprzez ustawienia konta Google.
+
+* **Zgoda na reklamy spersonalizowane (ważne dla użytkowników z EOG/Wielkiej Brytanii):**
+    Dla użytkowników znajdujących się w Europejskim Obszarze Gospodarczym (EOG) oraz Wielkiej Brytanii, Aplikacja może wyświetlać mechanizm uzyskiwania zgody na gromadzenie danych w celu personalizacji reklam, zgodnie z obowiązującymi przepisami (np. RODO). Jeśli nie wyrazisz zgody na reklamy spersonalizowane, mogą być Ci nadal wyświetlane reklamy, ale będą one mniej dopasowane do Twoich zainteresowań (reklamy niespersonalizowane/kontekstowe).
+
+* **Wymogi prawne:** Możemy ujawnić informacje, jeśli będzie to wymagane przez prawo... (reszta tego podpunktu bez zmian).
+
 
 ## 4. Bezpieczeństwo danych
 
@@ -44,21 +61,16 @@ Przykładamy wagę do bezpieczeństwa Twoich danych, even jeśli są one przecho
 
 Nasza Aplikacja nie jest skierowana do osób poniżej 13. roku życia (lub innego wieku określonego przez lokalne przepisy). Świadomie nie gromadzimy żadnych danych osobowych od dzieci. Jeśli dowiesz się, że dziecko przekazało nam dane osobowe bez zgody rodziców, skontaktuj się z nami, a my podejmiemy kroki w celu usunięcia takich informacji.
 
-## 6. Linki do innych stron (jeśli dotyczy)
-
-Nasza Aplikacja może zawierać linki do innych stron internetowych lub usług, które nie są przez nas obsługiwane. Jeśli klikniesz link strony trzeciej, zostaniesz przekierowany na stronę tej strony trzeciej. Zalecamy zapoznanie się z polityką prywatności każdej odwiedzanej witryny. Nie mamy kontroli nad treściami, politykami prywatności ani praktykami stron lub usług stron trzecich i nie ponosimy za nie odpowiedzialności.
-
-## 7. Zmiany w niniejszej Polityce Prywatności
+## 6. Zmiany w niniejszej Polityce Prywatności
 
 Możemy okresowo aktualizować naszą Politykę Prywatności. Poinformujemy Cię o wszelkich zmianach, publikując nową Politykę Prywatności na tej stronie i aktualizując datę "Data ostatniej aktualizacji" na górze tej Polityki Prywatności.
 
 Zaleca się okresowe przeglądanie niniejszej Polityki Prywatności pod kątem wszelkich zmian. Zmiany w niniejszej Polityce Prywatności wchodzą w życie z chwilą ich opublikowania na tej stronie.
 
-## 8. Kontakt
+## 7. Kontakt
 
 Jeśli masz jakiekolwiek pytania dotyczące niniejszej Polityki Prywatności, skontaktuj się z nami:
 
-* **Email:** [Wstaw Tutaj Wasz Adres Email do Kontaktu, np. rafkas.dev@example.com]
-* **Opcjonalnie: Strona internetowa/Inny kontakt:** [Link do Waszej strony lub inny sposób kontaktu, jeśli posiadacie]
+* **Email:**  rafkas.dev@example.com
 
 ---
